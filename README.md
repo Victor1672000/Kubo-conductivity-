@@ -1,4 +1,4 @@
-The fiel contains the scripts needed to calculate the Kubo conductivity of static Hamiltonians
+The file contains the scripts needed to calculate the Kubo conductivity of static Hamiltonians
 
 The main functions can be found in the file "vector_wise_conductivity_efficient.jl"
 The files "Read_TB_Hamiltonian.jl" and "TB_Hamiltonian_noise.jl" contain the functions required to import Hamiltonians parameterised via TB
